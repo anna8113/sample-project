@@ -1,0 +1,10 @@
+header {
+    background-color: darkblue;
+color: lightblue;
+min-height: 110px;
+padding-top: 30p;
+padding-left: 30px;
+}
+nav {
+    width:100%;
+}
